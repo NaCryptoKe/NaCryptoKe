@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nahom 👋
 
-<!--
-**NaCryptoKe/NaCryptoKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at HiLCoE, Addis Ababa, building foundational systems from scratch to understand them properly.
 
-Here are some ideas to get you started:
+- 🔭 Currently working through a self-directed C project sequence
+- 🌱 Learning: low-latency systems, OS internals, compiler fundamentals
+- 🛠️ Daily driver: Arch Linux + Hyprland, Neovim, kitty
+- 💬 Ask me about: memory allocators, custom ISAs, OpenGL/GLUT, or why abstractions deserve a rebuild before you trust them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I work with
+
+`C` `Python` `OpenGL` `Linux`
+
+## Featured projects
+
+- **my_alloc** — sbrk/mmap-based memory allocator with coalescing, splitting, and a stress test suite
+- **CPU Emulator** — 16-bit custom ISA with segmented memory
+- **OpenGL/GLUT Graphics** — Pong → Breakout → Snake → Asteroids, built from first principles
+
+## Connect
+
+Feel free to reach out or check out my pinned repos below.
