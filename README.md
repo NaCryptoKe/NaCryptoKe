@@ -21,4 +21,4 @@ CS student at HiLCoE, Addis Ababa, building foundational systems from scratch to
 
 Feel free to reach out or check out my pinned repos below.
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bdfa0b6e-4bf2-442e-a680-5f4fdb3f48e1)](https://wakatime.com/@bdfa0b6e-4bf2-442e-a680-5f4fdb3f48e1)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bdfa0b6e-4bf2-442e-a680-5f4fdb3f48e1&theme=tokyonight)](https://wakatime.com/@bdfa0b6e-4bf2-442e-a680-5f4fdb3f48e1)
