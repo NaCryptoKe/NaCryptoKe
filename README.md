@@ -21,18 +21,7 @@ CS student at HiLCoE, Addis Ababa, building foundational systems from scratch to
 
 Feel free to reach out or check out my pinned repos below.
 
-<details>
-  <summary>Github Stats</summary>
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaCryptoKe&show_icons=true"/>
-  </p>
-</details>
-<details>
-  <summary>Waka Stats</summary>
-  <p align = "center">
-    <img src="https://wakatime.com/share/@bdfa0b6e-4b3f48e1/c53278ae-d5af-4464-bfc9-2aaf791335a9.svg" height="400"/>
-  </p>
-  <p align = "center">
+<figure><embed f2-442e-a680-5f4fdbsrc="https://wakatime.com/share/@bdfa0b6e-4b3f48e1/c53278ae-d5af-4464-bfc9-2aaf791335a9.svg"></embed></figure>
     <img src="https://wakatime.com/share/@bdfa0b6e-4b3f48e1/c53278ae-d5af-4464-bfc9-2aaf791335a9.svg" height="400"/>
   </p>
   <p align = "center">
