@@ -28,8 +28,13 @@ Feel free to reach out or check out my pinned repos below.
   </p>
 </details>
 <details>
-  <summary>Language Stats</summary>
+  <summary>Waka Stats</summary>
   <p align = "center">
-    <img src="https://wakatime.com/share/@bdfa0b6e-4bf2-442e-a680-5f4fdb3f48e1/c9750f7e-de53-4d2c-a17b-88ae9139e834.svg" height="400"/>
+    <img src="https://wakatime.com/share/@bdfa0b6e-4b3f48e1/c53278ae-d5af-4464-bfc9-2aaf791335a9.svg" height="400"/>
   </p>
+  <p align = "center">
+    <img src="https://wakatime.com/share/@bdfa0b6e-4b3f48e1/c53278ae-d5af-4464-bfc9-2aaf791335a9.svg" height="400"/>
+  </p>
+  <p align = "center">
+    <img src="https://wakatime.com/share/@bdfa0b6e-4b3f48e1/c53278ae-d5af-4464-bfc9-2aaf791335a9.svg" heigh="400"/>
 </details>
